@@ -22,7 +22,6 @@ export class NovaTransferenciaComponent {
   limparCampos(){
     this.valor = 0;
     this.destino = 0;
-
-}
+  }
 
 }

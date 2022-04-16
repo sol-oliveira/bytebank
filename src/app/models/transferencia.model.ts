@@ -1,4 +1,4 @@
-export interface Tranferecia {
+export interface Transferencia {
   id: string;
   valor: number;
   destino: string;
